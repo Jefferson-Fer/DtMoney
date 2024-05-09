@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2024-04-24T09:36:30.000Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburgue",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2024-04-23T13:36:30.000Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-04-23T13:36:30.000Z"
+    },
+    {
+      "id": "263f",
+      "description": "Aulas de Inglês",
+      "category": "Educação",
+      "price": 300,
+      "type": "outcome",
+      "createdAt": "2024-04-24T23:05:16.609Z"
+    },
+    {
+      "id": "e416",
+      "description": "Salário",
+      "category": "Trabalho",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2024-04-24T23:38:11.622Z"
+    }
+  ]
+}
